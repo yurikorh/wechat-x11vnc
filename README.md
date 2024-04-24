@@ -1,4 +1,5 @@
 # wechat-x11vnc
+running wechat via wine, x11vnc and novnc within a docker container
 ## build
 ./build.sh
 ## run
